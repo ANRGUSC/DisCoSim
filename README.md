@@ -1,5 +1,5 @@
-# DistCompSim
-A simulator for evaluating a distributed computing scheduling
+# DisCoSim
+A simulator for evaluating Dispersed Computing schedules
 
 # Introduction
 This simulator helps evaluating different possible mappings of the tasks of a task graph to available compute nodes. It evaluates any given mapping and provides the average latency for it along with the average task execution times for all the tasks.
